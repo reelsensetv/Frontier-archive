@@ -1,5 +1,7 @@
 #Frontier podcast torrent archives
 
+A casual conversation about coffee, camping, tech &  self-employment.
+
 ```
 Podcast ................. Frontier
 Publisher ............... reelsense.tv
@@ -7,9 +9,6 @@ Quality ................. 64-112Kbps VBR
 Codec ................... MP3
 Released ................ 2015-02-26
 ```
-
-Description:
-A casual conversation about coffee, camping, tech &  self-employment.
 
 Episodes 1-100
 
